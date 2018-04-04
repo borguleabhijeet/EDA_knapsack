@@ -1,6 +1,6 @@
 # EDA_knapsack
 This report we present about estimation of distribution of algorithms.
-
+![alt text](https://github.com/borguleabhijeet/EDA_knapsack/blob/master/EDA_knapsack/works.jpg)
 Algorithm 
 1. Initialize population:
 A. We generate 0-1 chromosomes. The individual length is 500
