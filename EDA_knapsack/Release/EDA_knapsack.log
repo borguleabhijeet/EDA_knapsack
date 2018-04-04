@@ -1,0 +1,20 @@
+﻿  main.cpp
+d:\onedrive\classes\third semester\special topics\homework 3\code\eda_knapsack\eda_knapsack\Knapsackdata1.h(47): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive\classes\third semester\special topics\homework 3\code\eda_knapsack\eda_knapsack\Knapsackdata1.h(50): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\onedrive\classes\third semester\special topics\homework 3\code\eda_knapsack\eda_knapsack\Knapsackdata1.h(73): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive\classes\third semester\special topics\homework 3\code\eda_knapsack\eda_knapsack\Knapsackdata1.h(78): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive\classes\third semester\special topics\homework 3\code\eda_knapsack\eda_knapsack\Knapsackdata1.h(106): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive\classes\third semester\special topics\homework 3\code\eda_knapsack\eda_knapsack\Knapsackdata1.h(110): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive\classes\third semester\special topics\homework 3\code\eda_knapsack\eda_knapsack\Knapsackdata1.h(120): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive\classes\third semester\special topics\homework 3\code\eda_knapsack\eda_knapsack\Knapsackdata1.h(138): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive\classes\third semester\special topics\homework 3\code\eda_knapsack\eda_knapsack\Knapsackdata1.h(170): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\onedrive\classes\third semester\special topics\homework 3\code\eda_knapsack\eda_knapsack\Knapsackdata1.h(175): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive\classes\third semester\special topics\homework 3\code\eda_knapsack\eda_knapsack\Knapsackdata1.h(176): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+d:\onedrive\classes\third semester\special topics\homework 3\code\eda_knapsack\eda_knapsack\Knapsackdata1.h(187): warning C4018: '<' : signed/unsigned mismatch
+d:\onedrive\classes\third semester\special topics\homework 3\code\eda_knapsack\eda_knapsack\Knapsackdata1.h(220): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+d:\onedrive\classes\third semester\special topics\homework 3\code\eda_knapsack\eda_knapsack\Knapsackdata1.h(221): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+d:\onedrive\classes\third semester\special topics\homework 3\code\eda_knapsack\eda_knapsack\Knapsackdata1.h(222): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+d:\onedrive\classes\third semester\special topics\homework 3\code\eda_knapsack\eda_knapsack\Knapsackdata1.h(212): warning C4101: 'token' : unreferenced local variable
+  Generating code
+  Finished generating code
+  EDA_knapsack.vcxproj -> D:\OneDrive\Classes\Third Semester\Special Topics\homework 3\code\EDA_knapsack\Release\EDA_knapsack.exe
